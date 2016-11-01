@@ -25,7 +25,7 @@ path_name = 'images/' # Path to save images to
 
 __Command Line Arguments:__
 
-
+```Python
 -u = Instagram Username
 
 -s = How long to sleep inbetween checks
@@ -33,4 +33,4 @@ __Command Line Arguments:__
 -d = Don't download old images, but download new ones
 
 -i = Image Path
-
+```
