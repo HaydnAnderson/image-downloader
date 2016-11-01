@@ -25,7 +25,7 @@ path_name = 'images/' # Path to save images to
 
 __Command Line Arguments:__
 
-```Python
+```MS-DOS
 -u = Instagram Username
 
 -s = How long to sleep inbetween checks
