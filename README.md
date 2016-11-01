@@ -4,7 +4,7 @@ Instagram Image Downloader
 Works with either a system argument or a in-program variables
 
 
-In-Program Variables:
+__In-Program Variables:__
 
 
 log_file = open('log.txt', 'r+') # Log File // Development Purposes Only \\
@@ -22,7 +22,7 @@ download_img1 = True # // Unknown Varible \\
 path_name = 'images/' # Path to save images to
 
 
-Command Line Arguments:
+__Command Line Arguments:__
 
 
 -u = Instagram Username
