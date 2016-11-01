@@ -7,7 +7,8 @@ Works with either a system argument or a in-program variables
 __In-Program Variables:__
 
 
-`log_file = open('log.txt', 'r+') # Log File // Development Purposes Only \\
+```Python
+log_file = open('log.txt', 'r+') # Log File // Development Purposes Only \\
 
 username = '' # Username
 
@@ -20,8 +21,8 @@ console_log = True # // Unknown Variable \\
 download_img1 = True # // Unknown Varible \\
 
 path_name = 'images/' # Path to save images to
+```
 
-`
 __Command Line Arguments:__
 
 
