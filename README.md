@@ -1,4 +1,4 @@
-# image-downloader
+# Image-Downloader
 Instagram Image Downloader
 
 Works with either a system argument or a in-program variables
@@ -8,6 +8,7 @@ In-Program Variables:
 
 
 log_file = open('log.txt', 'r+') # Log File // Development Purposes Only \\
+
 username = '' # Username
 
 sleep_time = 120 # How long to wait between checks
